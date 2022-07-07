@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+img {
+  width: 300px;
+}
+.container {
+  max-width: 700px;
+  border: solid red;
+  margin-top: 30px;
+}
+.col {
+  margin-top: 20px;
+}
+.time {
+  font-size: 50px;
+}
