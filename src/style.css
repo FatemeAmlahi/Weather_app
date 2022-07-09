@@ -2,16 +2,22 @@ body {
   text-align: center;
 }
 img {
-  width: 300px;
+  width: 350px;
+  border-radius: 50% 5% 50% 5%;
 }
 .container {
   max-width: 700px;
   border: solid red;
+  margin-top: 50px;
+}
+
+.col {
   margin-top: 30px;
 }
-.col {
-  margin-top: 20px;
+.first {
+  padding-top: 30px;
 }
 .time {
-  font-size: 50px;
+  font-size: 45px;
+  margin-top: 30px;
 }
